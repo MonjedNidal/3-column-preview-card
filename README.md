@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-3column-preview-card-Q7x_5LPSjl](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-Q7x_5LPSjl)
+- Live Site URL: [https://monjed-3-column-preview-card.netlify.app/](https://monjed-3-column-preview-card.netlify.app/)
 
 ## My process
 
